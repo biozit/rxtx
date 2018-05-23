@@ -5,6 +5,7 @@ import com.fazecast.jSerialComm.SerialPort;
 
 public class SerialTest {
 
+	// testes
 	private static final Logger logger = LogManager.getLogger(SerialTest.class);
 
 
